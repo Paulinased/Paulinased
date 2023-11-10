@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-CSS-e34f26?logo=css3&logoColor=fff">
